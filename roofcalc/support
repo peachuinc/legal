@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RoofCalc - Support</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 640px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #1B3A5C; }
+        h2 { color: #1B3A5C; margin-top: 2em; }
+        a { color: #D35844; }
+    </style>
+</head>
+<body>
+    <h1>RoofCalc Support</h1>
+
+    <h2>Contact Us</h2>
+    <p>Have a question, found a bug, or want to suggest a feature? Send us an email:</p>
+    <p><a href="mailto:support@roofcalc.app">support@roofcalc.app</a></p>
+
+    <h2>FAQ</h2>
+    <p><strong>How do I restore my Pro purchase?</strong><br>
+    Go to Settings > Restore Purchase. Your purchase is tied to your Apple ID and can be restored on any device.</p>
+
+    <p><strong>Does the app work offline?</strong><br>
+    Yes. All calculations happen on your device. No internet connection required.</p>
+
+    <p><strong>How accurate are the material estimates?</strong><br>
+    Estimates include an adjustable waste factor and follow standard roofing industry formulas. Always verify quantities with your supplier before ordering.</p>
+</body>
+</html>
